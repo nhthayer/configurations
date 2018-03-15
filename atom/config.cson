@@ -1,0 +1,9 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 11
+  "exception-reporting":
+    userId: "7ca4f25a-0283-4088-a5f7-e49fde2e6b30"
