@@ -7,3 +7,7 @@
     fontSize: 11
   "exception-reporting":
     userId: "7ca4f25a-0283-4088-a5f7-e49fde2e6b30"
+  "linter-ui-default":
+    panelHeight: 99
+  "symbols-tree-view":
+    autoToggle: true

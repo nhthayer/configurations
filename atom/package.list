@@ -1,9 +1,10 @@
 autocomplete-python@1.10.5
 busy-signal@1.4.3
 intentions@1.1.5
-linter@2.0.0
+linter@2.2.0
 linter-pylint@2.1.1
 linter-ui-default@1.7.1
-python-indent@1.1.4
+python-indent@1.1.5
 script@3.17.3
+symbols-tree-view@0.14.0
 
